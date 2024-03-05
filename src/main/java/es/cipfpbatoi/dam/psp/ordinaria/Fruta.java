@@ -1,15 +1,6 @@
 package es.cipfpbatoi.dam.psp.ordinaria;
 
-public class Fruta {
+public class Fruta extends Vegetal {
 
-    private int cantidad;
-
-    public int getCantidad() {
-        return cantidad;
-    }
-
-    public void setCantidad(int cantidad) {
-        this.cantidad = cantidad;
-    }
 
 }
